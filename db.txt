@@ -1,0 +1,5 @@
+producto nombre,precio unidad
+Coca cola, 150
+Pan lactal, 200
+Galletas surtidas, 250
+Caja te x 50 unidades, 130
